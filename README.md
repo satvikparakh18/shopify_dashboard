@@ -82,4 +82,4 @@ A dedicated page is provided to display **transaction-level or detailed data**. 
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Example: ![Dashboard Preview](https://github.com/satvikparakh18/shopify_dashboard/blob/main/screenshot%20of%20shopify%20dashboard.png)
