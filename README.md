@@ -81,5 +81,4 @@ A dedicated page is provided to display **transaction-level or detailed data**. 
 * **Product Strategy:** Analysis of **Product Type** revenue and volume allows for informed decisions on inventory stocking and product promotion priorities.
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/satvikparakh18/shopify_dashboard/blob/main/screenshot%20of%20shopify%20dashboard.png)
